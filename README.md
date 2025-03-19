@@ -1,8 +1,8 @@
 # s3tasks-operator
-// TODO(user): Add simple overview of use/purpose
+Run AWS S3 Batch job on Kubernetes.
 
 ## Description
-// TODO(user): An in-depth paragraph about your project and overview of use
+s3tasks-operator runs AWS S3 Batch jobs as Kubernetes jobs. Supported jobs at this moment are Glacier restoration.
 
 ## Getting Started
 
